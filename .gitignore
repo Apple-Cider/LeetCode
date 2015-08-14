@@ -3,4 +3,6 @@
 *.opensdf
 *.suo
 *.vcxproj.user
+*.obj
+Debug/
 ipch
