@@ -11,6 +11,7 @@ int main(int argc, char** argv) {
 		std::cout << "want another test? (y/n) ";
 		std::cin >> anotherTest;
 	}
+	
 	return 0;
 }
 
